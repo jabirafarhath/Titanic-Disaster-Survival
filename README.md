@@ -4,7 +4,6 @@ Titanic Survival Prediction is a Machine learning web application which employs 
 
 ## Machine Learning Model
 
-Regression
 Data Capture --> Data Analysis --> Data Cleaning --> Data Modelling --> Testing
 
 ### What is Regression?
